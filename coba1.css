@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(212, 199, 195);
+}
+
+h3{
+    color: rgb(67, 34, 97);
+}
+
+p{
+    text-align: left;
+    color: rgb(43, 29, 165);
+}
+
+h1{
+    color: cornflowerblue;
+    font-family: serif;
+    font-size: 200%;
+}

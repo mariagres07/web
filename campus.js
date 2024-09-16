@@ -1,0 +1,1 @@
+window.alert('okai mari kita coba')
